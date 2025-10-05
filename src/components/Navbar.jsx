@@ -1,4 +1,5 @@
 import React from "react";
+// import smart
 
 const Navbar = () => {
   return (
@@ -6,7 +7,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center space-x-2 text-white font-semibold text-xl">
-          <img src="/logo192.png" alt="logo" className="w-7 h-7" />
+          <img src="{ }" alt="logo" className="w-7 h-7" />
           <span>SmartEventAI</span>
         </div>
 
