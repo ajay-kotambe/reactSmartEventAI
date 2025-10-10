@@ -60,7 +60,7 @@ const Navbar = () => {
           className="bg-indigo-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-indigo-500 hover:scale-105 transition-all duration-300"
           onClick={() => navigate("/signup")}
         >
-          Sign Up
+          Sign In
         </button>
       </div>
     </nav>
